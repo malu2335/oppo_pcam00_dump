@@ -1,0 +1,4 @@
+data/app/OppoNote
+data/app/OppoCompass
+data/app/OppoWeather
+data/app/Calculator

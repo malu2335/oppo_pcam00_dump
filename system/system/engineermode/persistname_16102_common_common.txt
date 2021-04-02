@@ -1,0 +1,4 @@
+com.nearme.note
+com.coloros.compass
+com.coloros.weather
+com.android.calculator2

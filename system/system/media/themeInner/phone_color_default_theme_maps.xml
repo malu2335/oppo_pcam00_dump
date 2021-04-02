@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneColors>
+        <!--PhoneColor.name：手机颜色的唯一标识，由项目、手软提供-->
+        <!--ColorDescription：手机颜色描述，描述手机颜色-->
+        <!--ColorDescriptionCN：手机颜色描述（中文），描述手机颜色-->
+        <!--DefaultTheme：该颜色手机对应的主题，可选为default（对应/system/media/theme/default/下默认主题）、/system/media/themeInner/下内置主题的文件名，不包含文件后缀（如.theme）-->
+        <!--ThemeDescriptionCN：主题描述（中文），描述主题名称-->
+        <!--手机颜色唯一标识、手机颜色描述由项目或手软提供，对应主题由桌面主题组根据UI要求配置-->
+        <!--该文件由OS产品中心桌面主题组维护-->
+
+    <PhoneColor name="FF108367">
+        <ColorDescription>Ocean Green</ColorDescription>
+        <ColorDescriptionCN>雾海绿</ColorDescriptionCN>
+        <DefaultTheme>1-DeepGreen</DefaultTheme>
+        <ThemeDescriptionCN>雾海绿</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF104983">
+        <ColorDescription>Purple Of Nebula</ColorDescription>
+        <ColorDescriptionCN>星云紫</ColorDescriptionCN>
+        <DefaultTheme>2-PurpleOfNebula</DefaultTheme>
+        <ThemeDescriptionCN>星云紫</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFFFCECE">
+        <ColorDescription>Pink Of Twilight</ColorDescription>
+        <ColorDescriptionCN>薄雾粉</ColorDescriptionCN>
+        <DefaultTheme>3-PinkOfTwilight</DefaultTheme>
+        <ThemeDescriptionCN>薄雾粉</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF333333">
+        <ColorDescription>Jet Black</ColorDescription>
+        <ColorDescriptionCN>极夜黑</ColorDescriptionCN>
+        <DefaultTheme>4-PolarNight</DefaultTheme>
+        <ThemeDescriptionCN>极夜黑</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFFF3000">
+        <ColorDescription>Orange</ColorDescription>
+        <ColorDescriptionCN>珊瑚橙</ColorDescriptionCN>
+        <DefaultTheme>5-CoralOrange</DefaultTheme>
+        <ThemeDescriptionCN>珊瑚</ThemeDescriptionCN>
+    </PhoneColor>
+</PhoneColors>

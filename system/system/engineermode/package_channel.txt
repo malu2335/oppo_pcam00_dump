@@ -1,0 +1,2 @@
+com.sankuai.meituan:mtconfig.ini
+ctrip.android.view:ctripPreInstalledInfo.channel

@@ -1,0 +1,9 @@
+com.standardar.service
+com.coloros.videoeditor
+cn.wps.moffice_eng
+com.netease.mail
+com.Qunar
+com.qiyi.video
+com.ss.android.ugc.aweme
+com.oppo.reader
+com.ss.android.article.news

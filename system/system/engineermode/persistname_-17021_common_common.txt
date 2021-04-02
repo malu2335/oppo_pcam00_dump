@@ -1,0 +1,4 @@
+com.coloros.note
+com.coloros.compass2
+com.coloros.weather2
+com.coloros.calculator
