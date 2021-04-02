@@ -1,0 +1,47 @@
+
+<permissions>
+    <feature name="oppo.feature.18097" />
+    <!-- Zeqi.Shen@AD.Fingerprint.1127478, 2017/10/29, add for fingerpirnt feature -->
+    <feature name="android.hardware.fingerprint" />
+    <!-- Qicai.Zhu@PSW.Multimedia.Display.LCD.Params, 2018/12/19, Modify for screen underlightsensor -->
+    <feature name="oppo.display.screen.underlightsensor.support" />
+    <feature name="oppo.back.touch.fingerprint.sensor" />
+    <feature name="oppo.hardware.fingerprint.optical.support" />
+    <!-- Xiaori.Yuan@PSW.Multimedia.Display.Service.Feature, 2018/05/22, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/05/24, Add this for protect eyes -->
+    <feature name="oppo.eyeprotect.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/05/29, Add this for AOD -->
+    <feature name="oppo.aod.support" />
+    <!-- liping-m@Display.Service.Feature, 2018/11/06, Add this for fingerprint -->
+    <feature name="oppo.fingerprint.disable.dimlayer" />
+    <!-- liping-m@Display.Service.Feature, 2019/03/26, Add this for DC backlight -->
+    <feature name="oppo.display.dcbacklight.support" />
+    <!-- YaoJun.Luo@ROM.SDK, 2018/05/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <!-- Qicai.Zhu@PSW.Multimedia.Display.LCD.Params, 2018/11/22, Modify for heteromorphism -->
+    <!-- feature name="com.oppo.feature.screen.heteromorphism" / -->
+    <!-- caobing@Swdp.Shanghai, 2018/06/11, Add for ovs smartmic support on 18081-->
+    <feature name="oppo.ovs.smartmic.support" />
+    <!-- Peng.Zhong@PSW.AD.Input.Motor.1589153, 2018/11/08, Add for motor control -->
+    <feature name="oppo.hardware.motor.support" />
+    <!-- Peng.Zhong@PSW.AD.Input.Motor.1589153, 2018/11/08, Add for motor control -->
+    <feature name="oppo.hardware.motor.backflash.support" />
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- Likuan.Ren@AD.BuildConfig.00, 2018/12/07, add for cn gms -->
+    <feature name="cn.google.services" />
+    <feature name="com.google.android.feature.services_updater" />
+    <!-- Xiao.Li@PSW.CN.WiFi.Network.1471780, 2018/08/11, add for traffic limit -->
+    <feature name="oppo.traffic.limit.support" />
+    <!-- Xijun.Wang@ROM.SDK, 2019/01/01, add for start and back animation support-->
+    <feature name="oppo.animation.round.support"/>
+    <!-- Wenfeng.Li@PSW.AD.OppoFeature.CommonSoft.0, 2019/01/29, Add for channel delete with app -->
+    <feature name="oppo.user.delete.channel.support"/>
+    <!-- Guan.Li@Apps.SpeechAssist 2018/10/19, feature used for disable incoming call voice control -->
+    <feature name="oppo.incomingcall.voicecontrol.shield" />
+    <!-- Yizhang.Peng@PSW.AD.OppoFeature.FusionLight.1535903, 2019/02/20, Add for light function -->
+    <feature name="oppo.sensor.fusionlight.support" />
+    <!-- Ruocheng.Jiang@Camera.AR, 2019/02/28, Add for ARunit support -->
+    <feature name="oppo.hardware.arunit.support" />
+</permissions>

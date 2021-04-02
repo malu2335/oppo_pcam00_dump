@@ -1,0 +1,10 @@
+data/app/ARunit
+data/app/cn.wps.moffice_eng-18097
+data/app/com.netease.mail
+data/app/com.Qunar
+data/app/com.ss.android.ugc.aweme-18097
+data/app/com.oppo.reader-18097
+data/app/com.netease.mail-18097
+data/app/com.Qunar-18097
+data/app/com.qiyi.video-18097
+data/app/com.ss.android.article.news-18097

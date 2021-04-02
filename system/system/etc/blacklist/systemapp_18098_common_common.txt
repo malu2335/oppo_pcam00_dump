@@ -1,0 +1,2 @@
+com.mobiletools.systemhelper
+com.oppo.ctautoregist
